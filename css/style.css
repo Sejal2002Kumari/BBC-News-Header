@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.clearFloat {
+  clear: both;
+}
+#topBar {
+  width: 97%;
+  height: 50px;
+  margin: 0px auto;
+}
+#bbcLogo {
+  height: 40px;
+  margin-top: 5px;
+  margin-right: 0px;
+  float: left;
+}
+.section {
+  float: left;
+  border-left: 1px grey solid;
+  height: 100%;
+}
+#signIn {
+  width: 48px;
+  height: 41px;
+  margin-left: 15px;
+  margin-right: 8px;
+  margin-top: 3px;
+  float: left;
+}
+
+#signintext {
+  font-weight: bolder;
+  padding-right: 22px;
+  position: relative;
+  top: 12px;
+  font-size: larger;
+}
+.mainHeads {
+  position: relative;
+  top: 16px;
+  left: 16px;
+  padding-right: 36px;
+  font-weight: bold;
+  font-size: 85%;
+}
+#downArrow {
+  float: left;
+  margin-top: 12px;
+  margin-left: 45px;
+  width: 30px;
+  height: 30px;
+}
+#more {
+  position: relative;
+  left: 16px;
+  top: 16px;
+  font-size: 85%;
+  font-weight: bold;
+  float: left;
+}
+
+#search {
+  width: auto;
+  background-color: #e4e4e4;
+  margin-left: 3px;
+  margin-top: 9px;
+  padding-top: 9px;
+  padding: 9px 3px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  color: #858585;
+  float: left;
+  text-align: right;
+  border: none;
+}
+#searchicon {
+  margin-top: 9px;
+  width: 29px;
+  height: 29px;
+}
+#bigRedBar {
+  width: 100%;
+  background-color: #bb1919;
+  height: 60px;
+  color: white;
+}
+#innerRedBar {
+  width: 96%;
+  margin: 0 auto;
+  height: 60px;
+}
+#bigNews {
+  margin: 0;
+  padding: 0;
+  padding-top: 5px;
+  font-size: 45px;
+  font-weight: normal;
+}
+#secondRedContainer {
+  width: 100%;
+  background-color: #bb1919;
+  height: 30px;
+}
+#secondRedMenu {
+  background-color: #bb4545;
+  width: 96%;
+  height: 20px;
+  margin: 0 auto;
+  padding: 5px 0px;
+}
+.redMenu {
+  font-size: 14px;
+  font-weight: normal;
+  float: left;
+  border-right: 1px solid #978f8f;
+  height: 50%;
+  padding: 0px 10px;
+  text-decoration: none;
+  color: white;
+}
+#downRedArrow {
+  width: 15px;
+  height: 15px;
+  position: relative;
+  top: 2px;
+}
